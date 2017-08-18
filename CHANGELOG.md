@@ -1,3 +1,26 @@
+<a name="10.1.1"></a>
+## 10.1.1 (2017-08-18)
+
+
+### Bug Fixes
+
+* **address:** Avoid show billing address information or message before loading remote address data
+
+<a name="10.1.0"></a>
+## 10.1.0 (2017-08-18)
+
+### Bug Fixes
+
+* **http-request:** Handle lower-case response headers
+* **payment:** Fix teardown handling for dataCollector and threeDSecure 
+
+### Features
+
+* **payment:** Create service for injecting deviceData into quote
+* **payment:** Make braintreeLoader to always create dataCollector instance
+* **payment:** Use dataCollector service in braintree controller
+* **payment:** Use dataCollector service in braintreepaypal controller
+
 <a name="10.0.0"></a>
 ## 10.0.0 (2017-08-15)
 
