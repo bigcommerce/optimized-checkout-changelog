@@ -1,3 +1,31 @@
+<a name="10.1.3"></a>
+## 10.1.3 (2017-08-24)
+
+
+### Features
+
+* **shopper:** Add a `finishorder.php` toggle
+
+<a name="10.1.2"></a>
+## 10.1.2 (2017-08-22)
+
+
+### Bug Fixes
+
+* **payment:** Set env to sandbox for PaypalExpress if in testMode 
+* **payment:** Do not remove braintree instances from $window 
+* **payment:** Do not try to create Data Collector if Kount is disabled 
+* **payment:** Handle Braintree data collector errors
+
+### Features
+
+* **payment:** Add PayPal credit button text and image
+* **payment:** Surface PayPal Credit on checkout
+* **payment:** Add button text + loader service for VisaCheckout
+* **payment:** Add tests for Braintreevisacheckout.controller
+* **payment:** Rename VisaCheckout controller to avoid braintree collision
+* **payment:** Surface VisaCheckout
+
 <a name="10.1.1"></a>
 ## 10.1.1 (2017-08-18)
 
