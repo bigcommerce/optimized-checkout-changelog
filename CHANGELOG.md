@@ -1,3 +1,22 @@
+<a name="11.0.0"></a>
+# 11.0.0 (2017-08-30)
+
+
+### Bug Fixes
+
+* **common:** Add missing ThemeEditor classes to allow styling
+* **common:** Add ThemeEditor classes to Custom Fields
+* **common:** Allow CSS to be overwritten by ThemeEditor styles
+* **common:** Apply styles to form label help text: `(Optional)`
+* **shipping:** Return quoteAddress because it contains the addressId
+
+
+### Features
+
+* **shipping:** Auto select when only one shipping method is available
+
+
+
 <a name="10.1.3"></a>
 ## 10.1.3 (2017-08-24)
 
