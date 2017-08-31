@@ -1,3 +1,13 @@
+<a name="11.0.1"></a>
+## 11.0.1 (2017-08-31)
+
+
+### Bug Fixes
+
+* **common:** Fix class name for checkoutStep
+
+
+
 <a name="11.0.0"></a>
 # 11.0.0 (2017-08-30)
 
