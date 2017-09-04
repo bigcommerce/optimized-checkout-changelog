@@ -1,3 +1,14 @@
+<a name="11.0.2"></a>
+## 11.0.2 (2017-09-04)
+
+
+### Bug Fixes
+
+* **payment:** Pass errors to reject and handle no response
+* **payment:** Teardown Braintree on scope destroy
+
+
+
 <a name="11.0.1"></a>
 ## 11.0.1 (2017-08-31)
 
@@ -9,7 +20,7 @@
 
 
 <a name="11.0.0"></a>
-# 11.0.0 (2017-08-30)
+## 11.0.0 (2017-08-30)
 
 
 ### Bug Fixes
