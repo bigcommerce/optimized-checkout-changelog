@@ -1,3 +1,20 @@
+<a name="11.1.0"></a>
+# 11.1.0 (2017-09-05)
+
+
+### Bug Fixes
+
+* **checkout:** Consistent return value for dispatch method
+* **geography:** Fix the return value of fetchCountries when there is an error
+
+
+### Features
+
+* **payment:** Send orderMetaData to Big Pay
+* **shipping:** Allow phone number to be optional for shipping addresses
+
+
+
 <a name="11.0.2"></a>
 ## 11.0.2 (2017-09-04)
 
