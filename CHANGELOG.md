@@ -1,3 +1,13 @@
+<a name="11.2.0"></a>
+# 11.2.0 (2017-09-06)
+
+
+### Features
+
+* **shopper:** Add reset password error message
+
+
+
 <a name="11.1.0"></a>
 # 11.1.0 (2017-09-05)
 
