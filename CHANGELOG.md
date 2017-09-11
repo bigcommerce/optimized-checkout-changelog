@@ -1,3 +1,21 @@
+<a name="11.3.0"></a>
+# 11.3.0 (2017-09-11)
+
+
+### Bug Fixes
+
+* **common:** Better stack trace for v8 browsers
+* **common:** Explicitly include es6-promise
+* **data-store:** The initial action must also have type property
+* **status:** Ensure loading indicator is visible while waiting for Ajax requests to complete
+
+
+### Features
+
+* **shopper:** Changes customerCreated to customerCanBeCreated
+
+
+
 <a name="11.2.0"></a>
 # 11.2.0 (2017-09-06)
 
