@@ -1,3 +1,14 @@
+<a name="11.4.0"></a>
+# 11.4.0 (2017-09-19)
+
+
+### Features
+
+* **payment:** enable paypal credit for paypal braintree
+* **paypal:** Pass pp method to braintree
+
+
+
 <a name="11.3.1"></a>
 ## 11.3.1 (2017-09-18)
 
