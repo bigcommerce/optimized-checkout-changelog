@@ -1,3 +1,13 @@
+<a name="11.7.0"></a>
+# 11.7.0 (2017-09-25)
+
+
+### Features
+
+* **shipping:** Improve affordance of checklists (shipping/payment selection)
+
+
+
 <a name="11.4.0"></a>
 # 11.4.0 (2017-09-19)
 
