@@ -1,3 +1,18 @@
+<a name="11.8.0"></a>
+# 11.8.0 (2017-09-26)
+
+
+### Bug Fixes
+
+* **payment:** map referrer id to paymentdata object
+
+
+### Features
+
+* **shipping:** Improve affordance of checklists (shipping/payment selection)
+
+
+
 <a name="11.4.0"></a>
 # 11.4.0 (2017-09-19)
 
