@@ -1,15 +1,80 @@
+<a name="11.10.0"></a>
+# 11.10.0 (2017-09-27)
+
+
+### Features
+
+* **payment:** Send shipping methods to bigpay for CyberSource
+
+
+
+<a name="11.9.0"></a>
+# 11.9.0 (2017-09-27)
+
+
+
 <a name="11.8.0"></a>
 # 11.8.0 (2017-09-26)
 
 
 ### Bug Fixes
 
-* **payment:** map referrer id to paymentdata object
+* **payment:** Map referrer id to PaymentData object
+
+
+<a name="11.7.0"></a>
+# 11.7.0 (2017-09-25)
 
 
 ### Features
 
 * **shipping:** Improve affordance of checklists (shipping/payment selection)
+
+
+
+<a name="11.6.0"></a>
+# 11.6.0 (2017-09-25)
+
+
+### Bug Fixes
+
+* **payment:** Avoid $digest soup with timeout
+* **payment:** Wrap tests in timeout
+
+
+### Features
+
+* **payment:** Widget flow through visacheckout payment step
+
+
+
+<a name="11.5.1"></a>
+## 11.5.1 (2017-09-21)
+
+
+### Bug Fixes
+
+* **payment:** Fix credit card form styling
+
+
+
+<a name="11.5.0"></a>
+# 11.5.0 (2017-09-21)
+
+
+### Features
+
+* **provider:** Add Vantiv payment provider
+
+
+
+<a name="11.4.1"></a>
+## 11.4.1 (2017-09-21)
+
+
+### Bug Fixes
+
+* **order:** Return order if cart is undefined
 
 
 
@@ -19,8 +84,8 @@
 
 ### Features
 
-* **payment:** enable paypal credit for paypal braintree
-* **paypal:** Pass pp method to braintree
+* **payment:** Enable PayPal credit for PayPal Braintree
+* **payment:** Pass PayPal method to Braintree
 
 
 
@@ -96,7 +161,7 @@
 
 
 <a name="11.0.0"></a>
-## 11.0.0 (2017-08-30)
+# 11.0.0 (2017-08-30)
 
 
 ### Bug Fixes
@@ -128,19 +193,19 @@
 
 ### Bug Fixes
 
-* **payment:** Set env to sandbox for PaypalExpress if in testMode 
-* **payment:** Do not remove braintree instances from $window 
-* **payment:** Do not try to create Data Collector if Kount is disabled 
-* **payment:** Handle Braintree data collector errors
+* **payment:** Set env to sandbox for PaypalExpress if in testMode
+* **payment:** Do not remove Braintree instances from $window
+* **payment:** do not try to create Data Collector if Kount is disabled
+* **payment:** handle Braintree data collector errors
 
 ### Features
 
-* **payment:** Add PayPal credit button text and image
+* **payment:** Add PayPal Credit button text and image
 * **payment:** Surface PayPal Credit on checkout
-* **payment:** Add button text + loader service for VisaCheckout
-* **payment:** Add tests for Braintreevisacheckout.controller
-* **payment:** Rename VisaCheckout controller to avoid braintree collision
-* **payment:** Surface VisaCheckout
+* **payment:** Add button text + loader service
+* **payment:** Add tests for braintreevisacheckout.controller
+* **payment:** Rename Visa Checkout controller to avoid Braintree collision
+* **payment:** Surface Visa Checkout
 
 <a name="10.1.1"></a>
 ## 10.1.1 (2017-08-18)
@@ -148,32 +213,32 @@
 
 ### Bug Fixes
 
-* **address:** Avoid show billing address information or message before loading remote address data
+* **address:** Do not show billing address information or message before loading remote address data
 
 <a name="10.1.0"></a>
-## 10.1.0 (2017-08-18)
+# 10.1.0 (2017-08-18)
 
 ### Bug Fixes
 
 * **http-request:** Handle lower-case response headers
-* **payment:** Fix teardown handling for dataCollector and threeDSecure 
+* **payment:** Fix teardown handling for dataCollector and threeDSecure
 
 ### Features
 
 * **payment:** Create service for injecting deviceData into quote
 * **payment:** Make braintreeLoader to always create dataCollector instance
-* **payment:** Use dataCollector service in braintree controller
+* **payment:** Use dataCollector service in Braintree controller
 * **payment:** Use dataCollector service in braintreepaypal controller
 
 <a name="10.0.0"></a>
-## 10.0.0 (2017-08-15)
+# 10.0.0 (2017-08-15)
 
 
 ### Features
 
 * **data-store:** Add a module responsible for storing data
 * **http:** Add a module responsible for making HTTP requests
-* **vco:** Introduce the Edit with Visa Checkout option
+* **payment:** Introduce the Edit with Visa Checkout option
 
 <a name="9.3.1"></a>
 ## 9.3.1 (2017-08-07)
@@ -183,6 +248,3 @@
 
 * **forms:** Include Object.assign polyfill for Custom Form Fields
 * **order:** Handle empty XHR responses when deviving error messages
-
-
-
