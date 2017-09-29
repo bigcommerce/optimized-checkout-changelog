@@ -1,3 +1,13 @@
+<a name="11.10.1"></a>
+## 11.10.1 (2017-09-29)
+
+
+### Bug Fixes
+
+* **payment:** Use Pay Now instead of Continue button for Braintree PayPal Checkout Flow
+
+
+
 <a name="11.10.0"></a>
 # 11.10.0 (2017-09-27)
 
