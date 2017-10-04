@@ -1,3 +1,14 @@
+<a name="11.11.0"></a>
+# 11.11.0 (2017-10-04)
+
+
+### Bug Fixes
+
+* **payments:** Inform addressService that the Billing Address has been provided already (Visa Checkout)
+* **payments:** Adds new PayPal Credit template for display in the Payment section of checkout
+
+
+
 <a name="11.10.1"></a>
 ## 11.10.1 (2017-09-29)
 
