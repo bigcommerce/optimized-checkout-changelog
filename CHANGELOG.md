@@ -1,3 +1,21 @@
+<a name="12.0.0"></a>
+# 12.0.0 (2017-10-08)
+
+
+### Bug Fixes
+
+* **billing:** Use the correct validator for billing addresses
+* **payments:** Braintree on UCO - Send cardholder name
+* **shopper:** Flat custom fields in customer addresses
+
+
+### Features
+
+* **shipping:** Add convertToShippingAddress method
+* **shopper:** Prepopulate custom fields
+
+
+
 <a name="11.11.0"></a>
 # [11.11.0](https://github.com/bigcommerce-labs/ng-checkout/compare/11.10.1...11.11.0) (2017-10-04)
 
