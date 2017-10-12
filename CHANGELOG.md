@@ -26,13 +26,13 @@
 
 
 <a name="11.11.0"></a>
-# [11.11.0](https://github.com/bigcommerce-labs/ng-checkout/compare/11.10.1...11.11.0) (2017-10-04)
+# 11.11.0 (2017-10-04)
 
 
 ### Bug Fixes
 
-* **payments:** PAYENTS-1940 Inform addressService that the Billing Address has been provided already (Visa Checkout) ([bb86c93](https://github.com/bigcommerce-labs/ng-checkout/commit/bb86c93))
-* **payments:** PAYMENTS-1946 Adds new PayPal Credit template for display in the Payment section of checkout ([b103a2d](https://github.com/bigcommerce-labs/ng-checkout/commit/b103a2d))
+* **payments:** Inform addressService that the Billing Address has been provided already (Visa Checkout)
+* **payments:** Adds new PayPal Credit template for display in the Payment section of checkout
 
 
 
