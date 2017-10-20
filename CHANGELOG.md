@@ -1,3 +1,15 @@
+<a name="12.0.2"></a>
+## 12.0.2 (2017-10-17)
+
+
+### Bug Fixes
+
+* **common:** Retain default request options unless overridden
+* **shipping:** Avoid losing execution context for getSelectedShippingOptionId
+* **shipping:** Don't throw an error if a shipping option request gets cancelled
+
+
+
 <a name="12.0.1"></a>
 ## 12.0.1 (2017-10-12)
 
