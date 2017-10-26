@@ -1,3 +1,12 @@
+<a name="13.0.0"></a>
+# 13.0.0 (2017-10-26)
+
+
+### Bug Fixes
+
+* **payment:** Adding show/hide to the Customer Code field for Vantiv and adding 'additional context' styling per design tema request.
+
+
 <a name="12.0.2"></a>
 ## 12.0.2 (2017-10-17)
 
