@@ -1,3 +1,78 @@
+<a name="13.0.0"></a>
+# 13.0.0 (2017-10-26)
+
+
+### Bug Fixes
+
+* **address:** Do not show billing address info or message when loading remote address data
+* **billing:** Use the correct validator for billing addresses
+* **checkout:** Consistent return value for dispatch method
+* **common:** Add missing ThemeEditor classes to allow styling
+* **common:** Add ThemeEditor classes to Custom Fields
+* **common:** Allow CSS to be overwritten by ThemeEditor styles
+* **common:** Apply styles to form label help text: `(Optional)`
+* **common:** Fix class name for checkoutStep
+* **common:** Better stack trace for v8 browsers
+* **common:** Explicitly include es6-promise
+* **common:** Retain default request options unless overridden
+* **data-store:** The initial action must also have type property
+* **geography:** Fix the return value of fetchCountries when there is an error
+* **http-request:** Handle lower-case response headers
+* **order:** Handle empty XHR responses when deviving error messages
+* **order:** Return order if cart is undefined
+* **payment:** Set env to sandbox for PaypalExpress if in testMode
+* **payment:** Adding show/hide to the Customer Code field for Vantiv and adding 'additional context' styling per design tema request.
+* **payment:** Fix credit card form styling
+* **payment:** map referrer id to paymentdata object
+* **payment:** Fix teardown handling for dataCollector and threeDSecure
+* **payment:** Do not remove braintree instances from $window
+* **payment:** do not try to create Data Collector if Kount is disabled
+* **payment:** handle braintree data collector errors
+* **payment:** Use Pay Now instead of Continue button for Braintree PayPal Checkout Flow
+* **payments:** Inform addressService that the Billing Address has been provided already (Visa Checkout)
+* **payments:** Braintree on UCO - Send cardholder name
+* **payments:** Adds new PayPal Credit template for display in the Payment section of checkout
+* **Payments:** Pass errors to reject and handle no response
+* **Payments:** Teardown Braintree on scope destroy
+* **shipping:** Avoid losing execution context for getSelectedShippingOptionId
+* **shipping:** Don't throw an error if a shipping option request gets cancelled
+* **shipping:** Return quoteAddress because it contains the addressId
+* **shopper:** Flat custom fields in customer addresses
+* **status:** Ensure loading indicator is visible while waiting for Ajax requests to complete
+* **visacheckout:** avoid $digest soup with timeout
+* **visacheckout:** wrap tests in timeout
+
+
+### Features
+
+* **data-store:** Add a module responsible for storing data
+* **http:** Add a module responsible for making HTTP requests
+* **payment:** Send orderMetaData to Big Pay
+* **payment:** Send shipping methods to bigpay for CyberSource
+* **payment:** enable paypal credit for paypal braintree
+* **payment:** create service for injecting deviceData into quote
+* **payment:** make braintreeLoader to always create dataCollector instance
+* **payment:** use dataCollector service in braintree controller
+* **payment:** use dataCollector service in braintreepaypal controller
+* **payment:** widget flow through visacheckout payment step
+* **Payments:** add pp credit button text and image
+* **Payments:** Surface PayPal Credit on checkout
+* **paypal:** Pass pp method to braintree
+* **provider:** Add Vantiv payment provider
+* **shipping:** Auto select when only one shipping method is available
+* **shipping:** Improve affordance of checklists (shipping/payment selection)
+* **shipping:** Add convertToShippingAddress method
+* **shopper:** Changes customerCreated to customerCanBeCreated
+* **shopper:** Add reset password error message
+* **shopper:** Prepopulate custom fields
+* **vco:** add button text + loader service
+* **vco:** Add tests for braintreevisacheckout.controller
+* **vco:** Introduce the Edit with Visa Checkout option
+* **vco:** rename visacheckout controller to avoid braintree collision
+* **vco:** surface vco
+
+
+
 <a name="12.0.2"></a>
 ## 12.0.2 (2017-10-17)
 
