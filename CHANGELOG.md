@@ -1,3 +1,15 @@
+<a name="13.0.1"></a>
+## 13.0.1 (2017-11-02)
+
+
+### Bug Fixes
+
+* **payment:** Fixing changlog from release
+* **shipping:** Make selectShippingOption `options` optional
+* **payment:** send visa-checkout as the method for braintreevisacheckout payments
+
+
+
 <a name="13.0.0"></a>
 # 13.0.0 (2017-10-26)
 
