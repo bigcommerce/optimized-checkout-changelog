@@ -1,3 +1,19 @@
+<a name="13.1.0"></a>
+# 13.1.0 (2017-11-20)
+
+
+### Bug Fixes
+
+* **order:** Fix getFinalizeOrderError method
+* **payment:** Fix OffsitePaymentStrategy finalize condition
+
+
+### Features
+
+* **checkout:** Remove finishorder.php completely
+
+
+
 <a name="13.0.0"></a>
 # 13.0.0 (2017-10-26)
 
