@@ -1,3 +1,11 @@
+<a name="13.2.0"></a>
+# 13.2.0 (2017-11-22)
+
+### Refactor
+
+* **checkout:** Make various code improvements
+
+
 <a name="13.1.0"></a>
 # 13.1.0 (2017-11-20)
 
@@ -11,7 +19,6 @@
 ### Features
 
 * **checkout:** Remove finishorder.php completely
-
 
 
 <a name="13.0.0"></a>
