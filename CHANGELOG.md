@@ -1,3 +1,11 @@
+<a name="13.2.0"></a>
+# 13.2.0 (2017-11-22)
+
+### Refactor
+
+* **checkout:** Make various code improvements
+
+
 <a name="13.0.0"></a>
 # 13.0.0 (2017-10-26)
 
