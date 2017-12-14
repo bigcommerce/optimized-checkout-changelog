@@ -1,3 +1,37 @@
+<a name="13.3.0"></a>
+# 13.3.0 (2017-12-14)
+
+
+### Bug Fixes
+
+* **common:** Add missing operators
+* **common:** Ignore actions without type property
+* **common:** Fix subscriber getting fired more than once if multiple filters return true
+* **common:** Bump form-poster to fix callback getting called prematurely
+* **coupon:** Fix coupon action assertions
+* **order:** Fix mailto link on order confirmation page.
+* **payment:** Fix deviceSessionId not getting passed
+* **payment:** Return correct errors when paypal's tokenize step fails
+
+
+### Features
+
+* **common:** Add stored-cards component
+* **payment:** Add stored instrument form to braintree
+* **payment:** Post shouldSaveInstrument flag to bigpay to prompt it to vault the supplied card
+
+
+### Performance Improvements
+
+* **payment:** Load minified Paypal Express JS SDK
+* **shipping:** Only load countries if needed
+
+
+### Refactor
+
+* **checkout:** Make various code improvements
+
+
 <a name="13.2.0"></a>
 # 13.2.0 (2017-11-22)
 
