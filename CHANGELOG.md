@@ -1,3 +1,9 @@
+<a name="14.0.0"></a>
+# 14.0.0 (2017-12-19)
+
+* **checkout:** Extract lib folder
+
+
 <a name="13.3.1"></a>
 ## 13.3.1 (2017-12-17)
 
@@ -40,6 +46,15 @@
 ### Refactor
 
 * **checkout:** Make various code improvements
+
+
+<a name="13.2.1"></a>
+## 13.2.1 (2017-12-15)
+
+
+### Bug Fixes
+
+* **payment:** PAYMENTS-2260 Fix PayPalExpress cart flow
 
 
 <a name="13.2.0"></a>
@@ -92,7 +107,7 @@
 
 ### Refactor
 
-* **checkout:** Make various code improvements 
+* **checkout:** Make various code improvements
 
 
 <a name="12.0.0"></a>
