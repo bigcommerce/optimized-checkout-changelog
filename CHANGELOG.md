@@ -1,3 +1,13 @@
+<a name="13.3.1"></a>
+## 13.3.1 (2017-12-17)
+
+
+### Bug Fixes
+
+* **payment:** Fix PayPalExpress cart flow
+
+
+
 <a name="13.3.0"></a>
 # 13.3.0 (2017-12-14)
 
