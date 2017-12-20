@@ -1,3 +1,13 @@
+<a name="13.3.3"></a>
+## 13.3.3 (2017-12-20)
+
+
+### Bug Fixes
+
+* **payment:** Skip payment submission if payment is already acknowledged or finalized
+
+
+
 <a name="13.3.2"></a>
 ## 13.3.2 (2017-12-20)
 
