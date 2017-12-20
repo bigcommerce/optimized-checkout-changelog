@@ -1,3 +1,13 @@
+<a name="13.3.2"></a>
+## 13.3.2 (2017-12-20)
+
+
+### Bug Fixes
+
+* **payment:** Hide credit card form if payment data is already submitted or not required
+
+
+
 <a name="13.3.1"></a>
 ## 13.3.1 (2017-12-17)
 
