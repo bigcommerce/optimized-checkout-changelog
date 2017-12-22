@@ -1,3 +1,14 @@
+<a name="14.0.1"></a>
+## 14.0.1 (2017-12-22)
+
+
+### Bug Fixes
+
+* **payment:** Skip payment submission if payment is already acknowledged or finalized
+* **payment:** Hide credit card form if payment data is already submitted or not required
+
+
+
 <a name="13.3.3"></a>
 ## 13.3.3 (2017-12-20)
 
