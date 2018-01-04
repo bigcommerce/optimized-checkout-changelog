@@ -1,3 +1,13 @@
+<a name="14.1.1"></a>
+## 14.1.1 (2018-01-04)
+
+
+### Bug Fixes
+
+* **payment:** Fix provider name not getting sent if paying with Paypal Payments Pro via cart flow
+
+
+
 <a name="13.3.3"></a>
 ## 13.3.3 (2017-12-20)
 
