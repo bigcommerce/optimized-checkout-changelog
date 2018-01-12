@@ -1,7 +1,31 @@
 <a name="14.0.0"></a>
 # 14.0.0 (2017-12-19)
 
+
+### Code Refactoring
+
 * **checkout:** Extract lib folder
+
+
+
+<a name="13.3.3"></a>
+## 13.3.3 (2017-12-20)
+
+
+### Bug Fixes
+
+* **payment:** Skip payment submission if payment is already acknowledged or finalized
+
+
+
+<a name="13.3.2"></a>
+## 13.3.2 (2017-12-20)
+
+
+### Bug Fixes
+
+* **payment:** Hide credit card form if payment data is already submitted or not required
+
 
 
 <a name="13.3.1"></a>
