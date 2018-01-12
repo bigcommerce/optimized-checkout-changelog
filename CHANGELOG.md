@@ -1,3 +1,18 @@
+<a name="14.2.0"></a>
+# 14.2.0 (2018-01-12)
+
+
+### Bug Fixes
+
+* **checkout:** Fix calling undefined `getLoadQuoteError` method
+
+
+### Features
+
+* **payment:** Various improvements to credit card form
+
+
+
 <a name="13.3.3"></a>
 ## 13.3.3 (2017-12-20)
 
