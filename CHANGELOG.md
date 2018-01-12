@@ -1,3 +1,14 @@
+<a name="14.1.0"></a>
+# 14.1.0 (2018-01-02)
+
+
+### Features
+
+* **shipping:** Pre-select shipping option based on BE
+* **shipping:** Sort pickup in store to be last in list
+
+
+
 <a name="14.0.0"></a>
 # 14.0.0 (2017-12-19)
 
