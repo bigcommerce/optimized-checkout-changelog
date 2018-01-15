@@ -13,6 +13,27 @@
 
 
 
+<a name="14.1.0"></a>
+# 14.1.0 (2018-01-02)
+
+
+### Features
+
+* **shipping:** Pre-select shipping option based on BE
+* **shipping:** Sort pickup in store to be last in list
+
+
+
+<a name="14.0.0"></a>
+# 14.0.0 (2017-12-19)
+
+
+### Code Refactoring
+
+* **checkout:** Extract lib folder
+
+
+
 <a name="13.3.3"></a>
 ## 13.3.3 (2017-12-20)
 
@@ -77,6 +98,15 @@
 * **checkout:** Make various code improvements
 
 
+<a name="13.2.1"></a>
+## 13.2.1 (2017-12-15)
+
+
+### Bug Fixes
+
+* **payment:** PAYMENTS-2260 Fix PayPalExpress cart flow
+
+
 <a name="13.2.0"></a>
 # 13.2.0 (2017-11-22)
 
@@ -127,7 +157,7 @@
 
 ### Refactor
 
-* **checkout:** Make various code improvements 
+* **checkout:** Make various code improvements
 
 
 <a name="12.0.0"></a>
