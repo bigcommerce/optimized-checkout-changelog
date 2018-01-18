@@ -1,3 +1,13 @@
+<a name="14.2.2"></a>
+## 14.2.2 (2018-01-18)
+
+
+### Bug Fixes
+
+* **checkout:** Bump SDK version to v0.5.1. To bring in several fixes included in the release.
+
+
+
 <a name="14.2.0"></a>
 # 14.2.0 (2018-01-12)
 
