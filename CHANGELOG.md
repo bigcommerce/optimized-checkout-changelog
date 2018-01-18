@@ -1,3 +1,19 @@
+<a name="14.2.1"></a>
+## 14.2.1 (2018-01-18)
+
+
+### Bug Fixes
+
+* **payment:** Disable the Place Order button while the square forms are still loading
+
+
+### Features
+
+* **payment:** Update bcapp when storecredit is toggled
+* **payment:** Allow payment with a vaulted instrument
+
+
+
 <a name="14.2.0"></a>
 # 14.2.0 (2018-01-12)
 
