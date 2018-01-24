@@ -1,3 +1,13 @@
+<a name="14.4.0"></a>
+# 14.4.0 (2018-01-24)
+
+
+### Bug Fixes
+
+* **checkout:** Allow expanding terms and conditions textarea
+* **shipping:** Timeout status code should be 0 instead of -1
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
