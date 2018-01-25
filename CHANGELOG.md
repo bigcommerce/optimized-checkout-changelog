@@ -1,3 +1,13 @@
+<a name="14.4.1"></a>
+## 14.4.1 (2018-01-25)
+
+
+### Bug Fixes
+
+* **common:** Polyfill `Object.assign`
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
