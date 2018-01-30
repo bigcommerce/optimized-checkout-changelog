@@ -1,3 +1,19 @@
+<a name="14.4.2"></a>
+## 14.4.2 (2018-01-30)
+
+
+### Bug Fixes
+
+* **checkout:** Enforce terms and conditions are accepted when paying with store credit in full
+* **common:** Upgrade `checkout-sdk` to v0.6.1
+
+
+### Features
+
+* **common:** Introduce loading spinner component
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
