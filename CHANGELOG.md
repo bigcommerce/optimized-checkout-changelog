@@ -1,3 +1,14 @@
+<a name="14.4.3"></a>
+## 14.4.3 (2018-02-02)
+
+
+### Bug Fixes
+
+* **checkout:** Coupon with location restriction not showing useful message when failed
+* **common:** Upgrade `checkout-sdk` to v0.6.2
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
