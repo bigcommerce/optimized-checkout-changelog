@@ -1,3 +1,15 @@
+<a name="14.6.1"></a>
+## 14.6.1 (2018-02-21)
+
+
+### Bug Fixes
+
+* **common:** fix cvv validation enable 4 digit cvv amex
+* **common:** remove year expansion from expiry detection
+* **common:** fix inconsistent instrument option styles
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
