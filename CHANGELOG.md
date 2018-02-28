@@ -1,3 +1,33 @@
+<a name="15.0.0"></a>
+# 15.0.0 (2018-02-28)
+
+
+### Bug Fixes
+
+* **checkout:** Adds loading overlay when checkout is loading
+* **checkout:** Block checkout page while showing loading spinner
+
+
+### Code Refactoring
+
+* **payment:** Use SDK to submit payment for AmazonPay
+* **shipping:** Use SDK to update shipping address for AmazonPay
+* **shopper:** Use SDK to sign in/out customer for AmazonPay
+
+
+### BREAKING CHANGES
+
+* **payment:** Similar to other Amazon widgets, we require additional
+data from API in order to initialize Amazon Wallet widget.
+* **shipping:** We require additional data to initialize Amazon
+AddressBook widget. Similar to the login button, we now initialize the
+widget on the client-side.
+* **shopper:** We require additional API data to initialize Amazon
+Login button. Previously, we rely on script injection to initialize the
+button. Now we initialize it on the client side using SDK.
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
