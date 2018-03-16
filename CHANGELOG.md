@@ -1,3 +1,13 @@
+<a name="15.1.2"></a>
+## 15.1.2 (2018-03-16)
+
+
+### Bug Fixes
+
+* **common:** Revert to previous version of build tool
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
