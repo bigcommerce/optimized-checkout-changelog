@@ -1,3 +1,13 @@
+<a name="15.1.1"></a>
+## 15.1.1 (2018-03-16)
+
+
+### Bug Fixes
+
+* **checkout:** Bump [@bigcommerce](https://github.com/bigcommerce)/checkout-sdk to fix issues with AmazonPay
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
