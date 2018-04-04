@@ -1,3 +1,13 @@
+<a name="15.4.0"></a>
+# 15.4.0 (2018-04-04)
+
+
+### Features
+
+* **payment:** Use CheckoutSDK for BraintreeCreditCard
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
