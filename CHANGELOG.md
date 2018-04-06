@@ -1,3 +1,13 @@
+<a name="15.5.1"></a>
+## 15.5.1 (2018-04-06)
+
+
+### Bug Fixes
+
+* **shipping:** Fix changing state field not updating shipping options
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
