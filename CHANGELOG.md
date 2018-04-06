@@ -1,3 +1,14 @@
+<a name="15.5.0"></a>
+# 15.5.0 (2018-04-06)
+
+
+### Features
+
+* **payment:** Use CheckoutSDK for Braintree PayPal & PayPal Credit
+* **payment:** Add handling for WePay Risk Client
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
