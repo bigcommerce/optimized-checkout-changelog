@@ -1,3 +1,13 @@
+<a name="15.5.2"></a>
+## 15.5.2 (2018-04-11)
+
+
+### Bug Fixes
+
+* **payment:** Use correct MasterCard type id
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
