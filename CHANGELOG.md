@@ -1,3 +1,26 @@
+<a name="15.10.0"></a>
+# 15.10.0 (2018-05-27)
+
+
+### Bug Fixes
+
+* **payment:** Change payment provider only when we submit an order with chasepay+orbital
+* **payment:** Disable Place Order button if an expired card is selected
+* **payment:** Surface the red expired text if an expired card is auto-selected because it is the only one in the list. Also, add not-alloewd cusor when trying to select it. Prevent selecting it if coming from a non-expired instrument
+* **payment:** fixes selected mastercard icon display
+
+
+### Features
+
+* **payment:** Bump checkout-sdk to v0.22.0
+* **payment:** Use CheckoutSDK for BraintreeVisaCheckout
+* **payment:** Use isPaymentStepPending to show the loading spinner in the payment step
+* **payment:** ChasePay can support a GetCheckoutData API Call
+* **payment:** Read trusted state and show credit card number when trusted is false
+* **payment:** Ensure credit cards are validated against stored credit cards
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
