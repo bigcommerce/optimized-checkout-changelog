@@ -1,3 +1,13 @@
+<a name="15.11.0"></a>
+# 15.11.0 (2018-05-31)
+
+
+### Features
+
+* **payment:** Omit Cvv field if requireCvv is false
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
