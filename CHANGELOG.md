@@ -1,3 +1,12 @@
+<a name="16.0.0"></a>
+# 16.0.0 (2018-06-08)
+
+
+### Refactor
+
+* **checkout:** CHECKOUT-3170 Upgrade `checkout-js-sdk` to v0.25.0. This version of Checkout JS SDK points to a different set of API endpoints. It uses the Storefront Checkout and Order endpoints instead of the internal counterparts. It also introduces various breaking changes, therefore require corresponding changes in order to accomodate them.
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
