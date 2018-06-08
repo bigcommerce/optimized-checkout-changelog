@@ -1,3 +1,13 @@
+<a name="15.12.1"></a>
+## 15.12.1 (2018-06-08)
+
+
+### Bug Fixes
+
+* **common:** Update lock file to reflect latest changes to package.json
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
