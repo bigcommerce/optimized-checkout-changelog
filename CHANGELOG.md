@@ -1,3 +1,23 @@
+<a name="15.12.2"></a>
+## 15.12.2 (2018-06-28)
+
+
+### Bug Fixes
+
+* **checkout:** Create merchant session at the time of chase pay light box call
+* **payment:** Add copyright symbol to Chase Pay display name
+* **payment:** Adding credit card logos to the WePay header so they appear on the accordion.
+* **payment:** Potential issue with ChasePay where the same MerchantRequestId is used for different MerchatSessionIds
+
+
+### Features
+
+* **checkout:** Chase Pay button to display on Customer section UCO page
+* **payment:** Send ChasePay CheckoutData needed for WePay
+* **payment:** Initialize gateway in chasepay
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
