@@ -1,3 +1,13 @@
+<a name="15.12.4"></a>
+## 15.12.4 (2018-07-05)
+
+
+### Bug Fixes
+
+* **common:** Upgrade build tool to fix source-map generation issue
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
