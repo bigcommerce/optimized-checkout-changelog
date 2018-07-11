@@ -1,3 +1,27 @@
+<a name="17.0.0"></a>
+# 17.0.0 (2018-07-11)
+
+
+### Bug Fixes
+
+* **checkout:** Update order comments after selecting shipping option
+* **common:** Upgrade build tool to fix source-map generation issue
+* **common:** Use different CacheKeyResolver for each function
+* **common:** Fix shopper currency
+* **order:** Fetch internal order in confirmation page
+* **payment:** Initialize Amazon only when logged in
+* **payment:** Add copyright symbol to Chase Pay display name
+* **shipping:** Check for valid shipping address after loading shipping fields
+* **shopper:** Fire HandleCustomerChange when logging to Remote providers
+* **shopper:** Listen for email changes in billing address
+
+
+### Features
+
+* **common:** Add wrapper methods for remaining selectors
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
