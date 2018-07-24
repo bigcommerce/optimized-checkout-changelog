@@ -1,3 +1,13 @@
+<a name="17.0.3"></a>
+## 17.0.3 (2018-07-24)
+
+
+### Bug Fixes
+
+* **shipping:** Pass `consignments` to `mapToInternalAddress` so that `address.id` gets mapped
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
