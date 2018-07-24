@@ -1,3 +1,13 @@
+<a name="17.0.4"></a>
+## 17.0.4 (2018-07-24)
+
+
+### Bug Fixes
+
+* **shipping:** Bump `checkout-sdk` to fix gift certificate amount not updated when shipping option is updated
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
