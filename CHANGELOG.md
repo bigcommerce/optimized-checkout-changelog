@@ -1,3 +1,13 @@
+<a name="17.0.2"></a>
+## 17.0.2 (2018-07-24)
+
+
+### Bug Fixes
+
+* **payment:** Bump `checkout-sdk` version to fix Afterpay issue
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
