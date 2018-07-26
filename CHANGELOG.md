@@ -1,3 +1,13 @@
+<a name="17.0.6"></a>
+## 17.0.6 (2018-07-26)
+
+
+### Bug Fixes
+
+* **payment:** Do not show modal when Klarna init fails due to being uneligible
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
