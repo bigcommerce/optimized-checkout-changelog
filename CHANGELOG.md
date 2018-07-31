@@ -1,3 +1,13 @@
+<a name="17.0.8"></a>
+## 17.0.8 (2018-07-31)
+
+
+### Bug Fixes
+
+* **checkout:** Bump `checkout-sdk` to version `0.28.6`
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
