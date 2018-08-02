@@ -1,3 +1,13 @@
+<a name="17.1.0"></a>
+# 17.1.0 (2018-08-02)
+
+
+### Features
+
+* **payment:** Vaulting to be unavailable for orders with multiple shipping addresses
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
