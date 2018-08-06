@@ -1,3 +1,13 @@
+<a name="17.2.0"></a>
+# 17.2.0 (2018-08-06)
+
+
+### Features
+
+* **payment:** Disable stored credit cards functionality for orders with digital products
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
