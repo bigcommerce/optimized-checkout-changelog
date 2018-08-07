@@ -1,3 +1,13 @@
+<a name="17.3.0"></a>
+# 17.3.0 (2018-08-07)
+
+
+### Features
+
+* **checkout:** Measure and track checkout started event via segment & GAEE
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
