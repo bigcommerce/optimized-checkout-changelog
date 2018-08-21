@@ -1,3 +1,13 @@
+<a name="17.4.1"></a>
+## 17.4.1 (2018-08-21)
+
+
+### Bug Fixes
+
+* **checkout:** Bump [@bigcommerce](https://github.com/bigcommerce)/checkout-sdk to pull in bug fixes
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
