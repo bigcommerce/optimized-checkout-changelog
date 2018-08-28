@@ -1,3 +1,25 @@
+<a name="17.5.0"></a>
+# 17.5.0 (2018-08-28)
+
+
+### Bug Fixes
+
+* **checkout:** Bump [@bigcommerce](https://github.com/bigcommerce)/checkout-sdk to pull in bug fixes
+* **shipping:** Keep old static shipping address format if multishipping feature is not enabled
+
+
+### Features
+
+* **shipping:** Add addressService#assignItems method
+* **shipping:** Add consignment directive
+* **shipping:** Add multi-shipping link in shipping state and use consignment directives
+* **shipping:** Add staticConsignment directive
+* **shipping:** Allow addressSelect directive to take an itemID as attribute
+* **shipping:** Refactor shippingOptionsService#postShippingOption to take a consignment ID
+* **shipping:** Handle multi-shipping for guests
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
