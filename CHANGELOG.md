@@ -1,3 +1,15 @@
+<a name="17.7.2"></a>
+## 17.7.2 (2018-09-10)
+
+
+### Bug Fixes
+
+* **checkout:** Bump `[@bigcommerce](https://github.com/bigcommerce)/checkout-sdk` version
+* **payment:** Fix `onAddressSelect` callback for Amazon
+* **shipping:** Maintain shipping controller address in sync
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
