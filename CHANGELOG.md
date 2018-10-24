@@ -1,3 +1,13 @@
+<a name="19.2.0"></a>
+# 19.2.0 (2018-10-24)
+
+
+### Features
+
+* **embedded-checkout:** Support Embedded Checkout ([#985](https://github.com/bigcommerce-labs/ng-checkout/issues/985))
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
