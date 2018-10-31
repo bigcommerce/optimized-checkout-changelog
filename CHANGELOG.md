@@ -1,3 +1,20 @@
+<a name="19.5.0"></a>
+# 19.5.0 (2018-10-31)
+
+
+### Bug Fixes
+
+* **checkout:** Now we can send edited values of shipping method during the uco checkout process.
+* **payment:** Prevent payment fields from collapsing when the viewport is small
+
+
+### Features
+
+* **common:** Bump `[@bigcommerce](https://github.com/bigcommerce)/checkout-sdk` version
+* **payment:** Add GooglePay as remote checkout button
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
