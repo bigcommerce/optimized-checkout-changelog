@@ -1,3 +1,16 @@
+<a name="20.6.1"></a>
+## 20.6.1 (2019-01-10)
+
+
+### Bug Fixes
+
+* **payment:** Fix square when switching payments
+* **shopper:** Clear login error manually when cancel button is clicked
+* **shopper:** Retain email address when switching between guest and login view
+* **shopper:** Revert to existing email validation pattern
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
