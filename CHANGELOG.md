@@ -1,3 +1,14 @@
+<a name="20.7.2"></a>
+## 20.7.2 (2019-01-22)
+
+
+### Bug Fixes
+
+* **payment:** Bump checkout-sdk version to fix Wepay issue
+* **shopper:** Fix issue where create account link does not open
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
