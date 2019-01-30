@@ -1,3 +1,13 @@
+<a name="20.8.1"></a>
+## 20.8.1 (2019-01-30)
+
+
+### Bug Fixes
+
+* **payment:** Add testId to credit card icon
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
