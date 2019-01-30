@@ -1,3 +1,21 @@
+<a name="20.8.0"></a>
+# 20.8.0 (2019-01-30)
+
+
+### Bug Fixes
+
+* **shipping:** Upgrade checkout-sdk to fix issue around shipping options not updated after applying coupon
+
+
+### Features
+
+* **order:** Rewrite guest sign-up form in React
+* **payment:** Add component for showing credit card types
+* **payment:** Apply new React credit card component and hide it behind experiment
+* **payment:** Convert credit card component into React
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
