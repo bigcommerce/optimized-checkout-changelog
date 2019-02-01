@@ -1,3 +1,20 @@
+<a name="20.9.0"></a>
+# 20.9.0 (2019-02-01)
+
+
+### Bug Fixes
+
+* **payment:** Make sure expiry year is in 4 digit format
+
+
+### Features
+
+* **order:** Convert Order Confirmation Summary to react
+* **payment:** Update duration of CC animation
+* **payment:** Update hiding behaviour for CC icons
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
