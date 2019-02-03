@@ -1,3 +1,14 @@
+<a name="20.9.1"></a>
+## 20.9.1 (2019-02-03)
+
+
+### Bug Fixes
+
+* **payment:** Don't send optional values as empty strings
+* **payment:** Validate card code based on card type
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
