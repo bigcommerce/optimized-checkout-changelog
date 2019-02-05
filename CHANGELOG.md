@@ -1,3 +1,13 @@
+<a name="20.9.2"></a>
+## 20.9.2 (2019-02-05)
+
+
+### Bug Fixes
+
+* **shopper:** Only show newsletter subscription field if configured
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
