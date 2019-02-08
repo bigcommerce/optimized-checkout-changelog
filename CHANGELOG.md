@@ -1,3 +1,15 @@
+<a name="20.9.3"></a>
+## 20.9.3 (2019-02-08)
+
+
+### Bug Fixes
+
+* **common:** Bump checkout-sdk version
+* **common:** Properly inherit prototype
+* **payment:** Only set selection range when it has changed
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
