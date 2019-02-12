@@ -1,3 +1,15 @@
+<a name="20.9.4"></a>
+## 20.9.4 (2019-02-12)
+
+
+### Bug Fixes
+
+* **cart:** Notify shopper and bring them back to shipping step when shipping rate changes after applying or removing coupon code
+* **cart:** Only apply highlight animation if value has changed
+* **shipping:** Disable continue button in shipping step if shipping option is not selected
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
