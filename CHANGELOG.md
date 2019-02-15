@@ -1,3 +1,26 @@
+<a name="20.11.0"></a>
+# 20.11.0 (2019-02-15)
+
+
+### Bug Fixes
+
+* **checkout:** Remove should update check to prevent stale data
+* **payment:** Remove credit card icon highlight when switching to different payment method
+* **payment:** Show CVV field if configured to be required for stored instrument
+* **payment:** Add `Event` polyfill to fix payment submission error for IE11
+
+
+### Features
+
+* **common:** Add component for showing loading progress
+* **common:** Add dropdown component
+* **payment:** Add component for selecting stored instruments
+* **payment:** Add field for saving card for later use
+* **payment:** Add modal for managing stored instruments
+* **payment:** Switch to use React for instrument component
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
