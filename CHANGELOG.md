@@ -1,3 +1,23 @@
+<a name="20.11.6"></a>
+## 20.11.6 (2019-03-12)
+
+
+### Bug Fixes
+
+* **cart:** Fix sticky cart
+* **order:** Render html properly when showing payment instructions
+
+
+### Features
+
+* **cart:** Add CartSummary component
+* **cart:** Add experiment for CartSummary React
+* **common:** Create Toggle component next UI
+* **payment:** Expose RedeemablePaymentNext through experiment
+* **payment:** Show coupons/gcs in payment next section
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
