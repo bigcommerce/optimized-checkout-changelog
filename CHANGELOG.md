@@ -1,3 +1,15 @@
+<a name="20.13.1"></a>
+## 20.13.1 (2019-03-26)
+
+
+### Bug Fixes
+
+* **embedded-checkout:** Fix the position of cart summary panel in embedded mode
+* **payment:** Fix missing wallet information for Visa Checkout
+* **payment:** Remove redundant wallet header
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
