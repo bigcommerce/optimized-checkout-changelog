@@ -1,3 +1,15 @@
+<a name="20.13.2"></a>
+## 20.13.2 (2019-03-29)
+
+
+### Bug Fixes
+
+* **checkout:** Bump checkout-sdk version
+* **payment:** Fix Afterpay not showing up correctly in list of payment methods
+* **payment:** Remove `mem` and use Lodash's `memoize` function instead as the former is not ES5 compatible
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
