@@ -1,3 +1,16 @@
+<a name="20.14.0"></a>
+# 20.14.0 (2019-04-12)
+
+
+### Features
+
+* **checkout:** Checkout Using Zip
+* **checkout:** Removed template
+* **checkout:** Removed TODO Comment
+* **payment:** Bump SDK.
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
