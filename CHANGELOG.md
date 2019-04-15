@@ -1,3 +1,13 @@
+<a name="20.15.0"></a>
+# 20.15.0 (2019-04-15)
+
+
+### Features
+
+* **checkout:** Affirm controller added
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
