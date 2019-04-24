@@ -1,3 +1,22 @@
+<a name="20.17.0"></a>
+# 20.17.0 (2019-04-24)
+
+
+### Bug Fixes
+
+* **common:** Enhanced animation when switching steps
+* **payment:** Only execute custom submit function if payment is required
+
+
+### Features
+
+* **common:** Create AddressSelect react component
+* **payment:** Checkout using Converge
+* **payment:** Adding min files
+* **shopper:** Show password icon for mobile
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
