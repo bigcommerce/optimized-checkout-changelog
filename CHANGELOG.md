@@ -1,3 +1,16 @@
+<a name="20.17.1"></a>
+## 20.17.1 (2019-04-26)
+
+
+### Bug Fixes
+
+* **payment:** Add additional margin around credit card fields
+* **payment:** Scroll to payment step when it is active
+* **shipping:** Add fieldset to fix customizations
+* **shopper:** Scroll to customer step when it is active
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
