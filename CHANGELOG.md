@@ -1,3 +1,13 @@
+<a name="20.17.2"></a>
+## 20.17.2 (2019-04-26)
+
+
+### Bug Fixes
+
+* **shipping:** Show shipping options if there is a remote address
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
