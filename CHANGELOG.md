@@ -1,3 +1,18 @@
+<a name="20.18.0"></a>
+# 20.18.0 (2019-04-29)
+
+
+### Bug Fixes
+
+* **payment:** Fix terms and conditions field error text
+
+
+### Features
+
+* **payment:** Bump SDK.
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
