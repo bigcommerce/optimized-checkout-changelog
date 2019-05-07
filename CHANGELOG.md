@@ -1,3 +1,24 @@
+<a name="20.19.0"></a>
+# 20.19.0 (2019-05-07)
+
+
+### Bug Fixes
+
+* **payment:** Coupon code field should not be visible underneath payment form in desktop view
+
+
+### Features
+
+* **checkout:** Add checkout app component
+* **checkout:** Add checkout step header component
+* **checkout:** Add function for determining state of checkout steps
+* **checkout:** Modify checkout step component to display header and content
+* **checkout:** Use new checkout component if experiment is on
+* **common:** Add locale context provider component
+* **shipping:** Multi-shipping React step
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
