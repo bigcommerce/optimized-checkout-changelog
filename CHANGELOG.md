@@ -1,3 +1,13 @@
+<a name="20.19.2"></a>
+## 20.19.2 (2019-05-08)
+
+
+### Bug Fixes
+
+* **shopper:** Fix customer step in guest view even when guest login is disabled
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
