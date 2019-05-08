@@ -1,3 +1,14 @@
+<a name="20.19.1"></a>
+## 20.19.1 (2019-05-08)
+
+
+### Bug Fixes
+
+* **common:** Fix LocaleProvider not rendering children when config is undefined
+* **payment:** Bump Checkout SDK 1.20.1
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
