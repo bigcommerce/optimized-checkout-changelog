@@ -1,3 +1,14 @@
+<a name="20.19.6"></a>
+## 20.19.6 (2019-05-15)
+
+
+### Bug Fixes
+
+* **payment:** Fix some minor spacing issues in payment step
+* **payment:** Render `HostedPaymentMethod` component if payment method already has payment details provided
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
