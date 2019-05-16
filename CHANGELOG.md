@@ -1,3 +1,14 @@
+<a name="20.19.7"></a>
+## 20.19.7 (2019-05-16)
+
+
+### Bug Fixes
+
+* **common:** Bump ng-build to fix minification issue
+* **shipping:** Dont automatically assign orphan item to an address
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
