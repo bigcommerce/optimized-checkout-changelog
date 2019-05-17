@@ -1,3 +1,13 @@
+<a name="20.19.8"></a>
+## 20.19.8 (2019-05-17)
+
+
+### Bug Fixes
+
+* **payment:** Add missing translation key
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
