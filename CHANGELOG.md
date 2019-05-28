@@ -1,3 +1,22 @@
+<a name="20.20.0"></a>
+# 20.20.0 (2019-05-28)
+
+
+### Bug Fixes
+
+* **order:** Fix order confirmation page render
+* **payment:** Use redirect flow when checking out with PayPal Express in embedded mode
+
+
+### Features
+
+* **payment:** Adding react file
+* **payment:** Change header for Affirm
+* **payment:** Allow both logo and text for certain payment methods
+* **shipping:** Add single shipping in React for signed in users
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
