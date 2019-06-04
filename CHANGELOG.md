@@ -1,3 +1,26 @@
+<a name="20.21.0"></a>
+# 20.21.0 (2019-06-04)
+
+
+### Bug Fixes
+
+* **common:** Fix `transitionend` callback and timeout value
+* **common:** Bump downshift dependency
+* **order:** Show password requirements error when account creation fails
+* **payment:** Fix button text not showing properly for some payment methods
+* **shipping:** Do not render address form when remote shipping
+* **shipping:** Add prevent default to address select
+
+
+### Features
+
+* **shipping:** React AddressForm
+* **shipping:** Amazon shipping widget
+* **shipping:** Auto-save ShippingAddressForm
+* **shipping:** Google Autocomplete for AddressForm
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
