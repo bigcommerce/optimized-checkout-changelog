@@ -1,3 +1,18 @@
+<a name="20.23.1"></a>
+## 20.23.1 (2019-06-25)
+
+
+### Bug Fixes
+
+* **common:** Reinitialize autocomplete properly
+* **payment:** Add missing class name for sign-in link that is required by Visa Checkout
+* **payment:** Add padding around wallet payment option
+* **payment:** Fix text of 'sign in' link for Visa Checkout
+* **payment:** Reinitialize Visa Checkout when payment option is selected
+* **payment:** Fix Masterpass button not displaying for Square Payment
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
