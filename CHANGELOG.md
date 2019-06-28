@@ -1,3 +1,17 @@
+<a name="20.23.2"></a>
+## 20.23.2 (2019-06-28)
+
+
+### Bug Fixes
+
+* **checkout:** repairs checkout step GAEE view/completed steps
+* **checkout:** fixes GAEE price bug in checkout confirmation
+* **payment:** Bump `checkout-sdk` to fix Afterpay issue
+* **payment:** Fix manage instruments modal not resetting after successful delete
+* **shipping:** Keep internal multishipping state
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
