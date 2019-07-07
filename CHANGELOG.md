@@ -1,3 +1,22 @@
+<a name="20.24.0"></a>
+# 20.24.0 (2019-07-07)
+
+
+### Bug Fixes
+
+* **billing:** Load billing data
+* **embedded-checkout:** Post event when Embedded Checkout is loaded
+* **payment:** Fix display text for Klarna payment
+
+
+### Features
+
+* **common:** Add analytics tracking to React
+* **payment:** Add controller for cybersource
+* **payment:** Bump checkout-sdk to v1.26.0
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
