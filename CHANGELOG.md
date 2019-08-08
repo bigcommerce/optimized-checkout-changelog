@@ -1,3 +1,42 @@
+<a name="21.1.0"></a>
+# 21.1.0 (2019-08-08)
+
+
+### Bug Fixes
+
+* **cart:** Improve billing currency note
+* **checkout:** Make whyDidYouRender work with webpack and jest
+* **checkout:** Temporary fix for IE11
+* **common:** Fix whyDidYouUpdate import
+* **common:** Also check to see if non-Formik props have changed before deciding whether or not to re-render
+* **common:** Fix import paths
+* **payment:** Surface error when order_could_not_be_finalized_error
+* **shipping:** Init multishipping with fresh data
+* **shipping:** Pass the form value to retrieve state options
+* **shipping:** Properly validate address after selecting it
+* **shipping:** Sync address1 always unless autocomplete is open
+* **shipping:** Undo unwanted changes
+* **shipping:** Return no-op validation schema instead of undefined
+
+
+### Performance Improvements
+
+* **billing:** Pass same object references into Billing component
+* **cart:** Pass same object references into CartSummary component
+* **checkout:** Pass same object references into Checkout component unless they are different
+* **checkout:** Use selector to derive checkout steps
+* **common:** Add shallow check to Formik connect HOC
+* **common:** Add why-did-you-render to check for unnecessary render
+* **order:** Pass same object references into Order component
+* **payment:** Pass same object references into ManageInstrumentsModal component
+* **payment:** Pass same object references into Payment component
+* **payment:** Pass same object references into PaymentMethod component
+* **payment:** Pass same object references into SpamProtectionField component
+* **shipping:** Pass same object references into Shipping component
+* **shopper:** Pass same object references into Shopper component
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
