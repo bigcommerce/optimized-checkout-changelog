@@ -1,3 +1,13 @@
+<a name="21.1.1"></a>
+## 21.1.1 (2019-08-12)
+
+
+### Bug Fixes
+
+* **checkout:** Bump checkout-sdk version to v1.32.1
+
+
+
 <a name="14.2.1"></a>
 ## 14.2.1 (2018-01-18)
 
